@@ -28,6 +28,9 @@
 * [Greek](../translations/README-gr.md)
 * [Magyar](../translations/README-hu.md)
 * [Polish](../translations/README-pl.md)
+* [Русский](../translations/README-ru.md)
+* [Tiếng Việt](../translations/README-vn.md)
+* [فارسی](../translations/README-fa.md)
 
 ## 正規表現とは
 
